@@ -1,1 +1,7 @@
+# extensions
 .exe
+
+# folders
+__pycache__
+
+# files
